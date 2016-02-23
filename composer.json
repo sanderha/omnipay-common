@@ -70,7 +70,8 @@
             "TargetPay_Directebanking",
             "TargetPay_Ideal",
             "TargetPay_Mrcash",
-            "WorldPay"
+            "WorldPay",
+            "Quickpay"
         ]
     }
 }
